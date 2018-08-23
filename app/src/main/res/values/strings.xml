@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Semana 4 cLASE JUEVES</string>
+
+    <string name="btn_title_name">Ir al formulario</string>
+    <string name="tv_status_name">No completado</string>
+
+    <string name="hint_userform_name">What your name?</string>
+    <string name="hint_userform_email">Locombia@ecoroko.co</string>
+    <string name="hint_userform_username">Colombia</string>
+
+    <string name="btn_title_userform_finish">completar</string>
+</resources>
